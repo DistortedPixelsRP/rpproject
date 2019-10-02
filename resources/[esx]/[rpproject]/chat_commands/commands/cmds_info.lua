@@ -1,0 +1,15 @@
+-- Commands that give the player some information, such as Discord invites etc. (must be configured)
+--CommandPack("custom commands", "rpproject", {
+    -- Add commands here
+    -- Simple /discord command that replies with the current discord invite
+    --{
+    --    command = "discord",
+    --    title = "Discord Link",
+    --    reply = "https://discord.gg/mynewfxserver",
+    --    help = "Get the discord invite link",
+    --},
+    -- Simple /teamspeak command that replies with the teamspeak IP
+--}, {
+    -- Default values, in this case the info text and color in chat
+--    color = {0, 0, 200},
+--})

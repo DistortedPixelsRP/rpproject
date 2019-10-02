@@ -1,0 +1,133 @@
+Locales['en'] = {
+    -- Cloakroom
+    ['cloakroom']                = 'Vestidor',
+    ['citizen_wear']             = 'Ropa de civil',
+    ['barman_outfit']            = 'Barman',
+    ['cooker_outfit']            = 'Cocinero',
+    ['security_outfit']          = 'Seguridad',
+    ['no_outfit']                = 'No hay uniforme que te quede bien...',
+    ['open_cloackroom']          = 'Presiona ~INPUT_CONTEXT~ para abrir el vestidor',
+  
+    -- Vault  
+    ['get_weapon']               = 'Sacar arma',
+    ['put_weapon']               = 'Depositar arma',
+    ['get_weapon_menu']          = 'Caja fuerte - Sacar arma',
+    ['put_weapon_menu']          = 'Caja fuerte - Depositar arma',
+    ['get_object']               = 'Sacar objecto',
+    ['put_object']               = 'Depositar objeto',
+    ['vault']                    = 'Caja fuerte',
+    ['open_vault']               = 'Presionar ~INPUT_CONTEXT~ para acceder a la caja fuerte',
+  
+    -- Fridge  
+    ['get_object']               = 'Sacar objeto',
+    ['put_object']               = 'Poner objeto',
+    ['fridge']                   = 'Heladera',
+    ['open_fridge']              = 'Presiona ~INPUT_CONTEXT~ para acceder a la heladera',
+    ['unicorn_fridge_stock']     = 'Stock',
+    ['fridge_inventory']         = 'Contentenido de la heladera',
+  
+    -- Shops  
+    ['shop']                     = 'Stock',
+    ['shop_menu']                = 'Presiona ~INPUT_CONTEXT~ para acceder a la tienda.',
+    ['bought']                   = 'Compraste ~b~ 1x',
+    ['not_enough_money']         = 'No hay suficiente dinero.',
+    ['max_item']                 = 'Ya tenes demasiados, no podes tener más',
+  
+    -- Vehicles  
+    ['vehicle_menu']             = 'Vehicle',
+    ['vehicle_out']              = 'There is already a vehicle outside',
+    ['vehicle_spawner']          = 'Press ~INPUT_CONTEXT~ to exit a vehicle',
+    ['store_vehicle']            = 'Press ~INPUT_CONTEXT~ to store the vehicle',
+    ['service_max']              = 'Full service: ',
+    ['spawn_point_busy']         = 'A vehicle is near the exit point',
+  
+    -- Boss Menu  
+    ['take_company_money']       = 'Sacar plata del deposito',
+    ['deposit_money']            = 'Poner plata en el deposito',
+    ['amount_of_withdrawal']     = 'Cantidad a sacar',
+    ['invalid_amount']           = 'Cantidad invalida',
+    ['amount_of_deposit']        = 'Depositar cantidad',
+    ['open_bossmenu']            = 'Presiona ~INPUT_CONTEXT~ para abrir el menu',
+    ['invalid_quantity']         = 'Cantidad invalida',
+    ['you_removed']              = 'Sacaste x',
+    ['you_added']                = 'Añadiste x',
+    ['quantity']                 = 'Cantidad',
+    ['inventory']                = 'Inventario',
+    ['unicorn_stock']            = 'Stock',
+  
+    -- Billing Menu  
+    ['billing']                  = 'Facturas',
+    ['no_players_nearby']        = 'No hay jugadores cerca',
+    ['billing_amount']           = 'Cantidad a cobrar',
+    ['amount_invalid']           = 'Cantidad invalida',
+  
+    -- Crafting Menu  
+    ['crafting_b']               = 'Lista de tragos',
+    ['crafting_c']               = 'Lista de comidas',
+    ['security_options']         = 'Acciones de seguridad',
+    ['esposar']                  = 'Esposar',
+    ['arrastrar']                = 'Arrastrar',
+    ['cachear']                  = 'Cachear',
+    ['martini']                  = 'White Martini',
+    ['icetea']                   = 'Ice Tea',
+    ['drpepper']                 = 'Dr. Pepper',
+    ['saucisson']                = 'Sausage',
+    ['grapperaisin']             = 'Bunch of grapes',
+    ['energy']                   = 'Speed',
+    ['jager']                    = 'Jägermeister',
+    ['limonade']                 = 'Lemonade',
+    ['vodka']                    = 'Vodka',
+    ['ice']                      = 'Hielo',
+    ['soda']                     = 'Soda',
+    ['whisky']                   = 'Whisky',
+    ['rhum']                     = 'Ron',
+    ['tequila']                  = 'Tequila',
+    ['menthe']                   = 'Menta',
+    ['jusfruit']                 = 'Jugo de frutas',
+    ['jagerbomb']                = 'Jägerbomb',
+    ['bolcacahuetes']            = 'Peanuts',
+    ['bolnoixcajou']             = 'Cashew nuts',
+    ['bolpistache']              = 'Pistachios',
+    ['bolchips']                 = 'Crisps',
+    ['jagerbomb']                = 'Jägerbomb',
+    ['golem']                    = 'Golem',
+    ['whiskycoca']               = 'Whisky con coca',
+    ['vodkaenergy']              = 'Vodka con speed',
+    ['vodkafruit']               = 'Vodka con jugo',
+    ['rhumfruit']                = 'Ron con jugo',
+    ['teqpaf']                   = 'Teq\'paf',
+    ['rhumcoca']                 = 'Rhum-coke',
+    ['fernetcoca']               = 'Fernet con coca',
+    ['cocacola']                 = 'Coca cola',
+    ['fernet']                   = 'Fernet',
+    ['mojito']                   = 'Mojito',
+    ['mixapero']                 = 'Aperitif Mix',
+    ['metreshooter']             = 'Shooter meter',
+    ['jagercerbere']             = 'Jäger Cerberus',
+    ['pizza']                    = 'Pizza',
+    ['lasagna']                  = 'Lasagna',
+    ['assembling_cocktail']      = 'Realizando el trago!',
+    ['assembling_food']          = 'Empezaste a cocinar!',
+    ['craft_miss_food']          = 'Fallaste en hacer la comida ...',
+    ['craft_miss_cocktail']      = 'Fallaste en hacer un trago...',
+    ['not_enough']               = 'No hay suficiente ~r~ ',
+    ['craft_cocktail']           = 'Terminaste de hacer el trago ~g~ !',
+    ['craft_food']               = 'Terminaste de cocinar ~g~ !',
+    ['restaurante_menu']         = 'Menu del restaurante!',
+  
+    -- Misc  
+    ['map_blip']                 = 'Vanilla Unicorn',
+    ['unicorn']                  = 'Vanilla Unicorn',
+  
+    -- Phone  
+    ['unicorn_phone']            = 'Unicorn',
+    ['unicorn_customer']         = 'Citizen',
+  
+    -- Teleporters
+    ['e_to_enter_1']             = 'Press ~INPUT_PICKUP~ to go behind the bar',
+    ['e_to_exit_1']              = 'Press ~INPUT_PICKUP~ to go in front off the bar',
+    ['e_to_enter_2']             = 'Press ~INPUT_PICKUP~ to go up to the roof.',
+    ['e_to_exit_2']              = 'Press ~INPUT_PICKUP~ to go down to the offices.',
+    
+  }
+  

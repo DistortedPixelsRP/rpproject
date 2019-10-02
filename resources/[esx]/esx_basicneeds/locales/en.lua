@@ -1,0 +1,22 @@
+Locales['en'] = {
+	['used_bread'] = 'Has comido un ~y~1x~s~ ~b~Pan~s~',
+	['used_water'] = 'Has bebido ~y~1x~s~ ~b~Agua~s~',
+	['used_hamburger'] = 'Has comido una ~y~1x~s~ ~b~Hamburguesa~s~',
+	['used_chocolate'] = 'Has comido un ~y~1x~s~ ~b~Chocolate~s~',
+	['used_cupcake'] = 'Has comido un ~y~1x~s~ ~b~CupCake~s~',
+	['used_chips'] = 'Has comido unas ~y~1x~s~ ~b~Galletas~s~',
+	['used_cocacola'] = 'Has tomado una ~y~1x~s~ ~b~CocaCola~s~',
+	['used_icetea'] = 'Has tomado un ~y~1x~s~ ~b~Te helado~s~',
+	['used_coffe'] = 'Has tomado un ~y~1x~s~ ~b~Cafe~s~',
+	['used_wine'] = 'Has tomado un ~y~1x~s~ ~b~Vino~s~',
+	['used_beer'] = 'Has tomado una ~y~1x~s~ ~b~Cerveza~s~',
+	['used_vodka'] = 'Has tomado un ~y~1x~s~ ~b~Vodka~s~',
+	['used_whisky'] = 'Has tomado un ~y~1x~s~ ~b~Whisky~s~',
+	['used_tequila'] = 'Has tomado un ~y~1x~s~ ~b~Tequila~s~',
+	['used_milk'] = 'Has tomado ~y~1x~s~ ~b~Leche~s~',
+	['used_gintonic'] = 'Has tomado un ~y~1x~s~ ~b~Gintonic~s~',
+	['used_absinthe'] = 'Has tomado ~y~1x~s~ ~b~Absenta~s~',
+	['used_champagne'] = 'Has tomado un ~y~1x~s~ ~b~Champagne~s~',
+	['used_sandwich'] = 'Has comido un ~y~1x~s~ ~b~Sandwich~s~',
+
+}
